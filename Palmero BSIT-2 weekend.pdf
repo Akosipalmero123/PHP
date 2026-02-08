@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        
+        .info-section {
+            margin-top: 20px;
+        }
+        .info-item {
+            margin-bottom: 10px;
+            padding-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="favorites-bar">
+        </div>
+
+        <h1>Personal Information:</h1>
+        
+        <div class="info-section">
+            <div class="info-item">
+                <strong>Full Name:</strong> Allen Dave M. Palmero
+            </div>
+            <div class="info-item">
+                <strong>Age:</strong> 21
+            </div>
+            <div class="info-item">
+                <strong>Date of Birth:</strong> September 10, 2004
+            </div>
+            <div class="info-item">
+                <strong>Place of Birth:</strong> Tagum City, Philippines
+            </div>
+            <div class="info-item">
+                <strong>Gender:</strong> Male
+            </div>
+            <div class="info-item">
+                <strong>Civil Status:</strong> Single
+            </div>
+            <div class="info-item">
+                <strong>Nationality:</strong> Filipino
+            </div>
+            <div class="info-item">
+                <strong>Religion:</strong> Roman Catholic
+            </div>
+            <div class="info-item">
+                <strong>Address:</strong> San Miguel Tagum City
+            </div>
+            <div class="info-item">
+                <strong>Phone Number:</strong> 09270822752
+            </div>
+            <div class="info-item">
+                <strong>Email Address:</strong> sorophite@gmail.com
+            </div>
+            <div class="info-item">
+                <strong>Course:</strong> BS Information Technology
+            </div>
+            <div class="info-item">
+                <strong>Year Level:</strong> 2nd Year
+            </div>
+        </div>
+    </div>
+</body>
+</html>
